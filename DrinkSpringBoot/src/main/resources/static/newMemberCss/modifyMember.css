@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+.fie-check {
+	/*width: 800px;*/
+	width: 90%;
+	/*border: 2px solid black;*/
+	border: 2px solid rgba(205,205,205,0.5);;
+	border-radius: 10px;
+	font-size:20px;
+	font-family: 標楷體;
+	box-shadow: 0 0 20px rgba(73, 48, 48, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+	padding: 20px;
+	margin: 30px auto;
+	background-color: rgba(205,205,205,0.5);
+	
+}
+.dd1-check div input{
+	height: auto;
+	width: 250px
+}
+
+.leg-check {
+	float: none;
+	width: auto;
+	margin: 5px 10px;
+	font-size: 50px;
+}
+
+.d1-check {
+	/*display: flex;*/
+	/*position: relative;*/
+	justify-content: center;
+	width: 60%;
+}
+
+.d1-check section{
+	width:100%;
+	/*display: flex;
+	position: relative;
+	justify-content: center;*/
+	margin: auto;
+}
+
+.dd1-check {
+	margin-bottom: 20px;
+	display: flex;
+	width: 100%;
+}
+
+.dd1-check div {
+	width: 50%;
+}
+
+.spa-check {
+	font-size: 10px;
+	color: gray;
+}
+
+.btnn {
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.btnn button {
+	margin: 20px 10px 10px 10px;
+}
+
+/*div 圖片*/
+
+.div-img{
+	width:300px;
+	margin: 30px 10px;
+	display: inline-block;
+	vertical-align: top;
+	height: 400px;
+}
+.div-img img{
+	width:100%;
+	display: inline-block;
+	position: relative;
+	top:47px;
+	vertical-align: middle;
+}
+
+/*--------------後台--------------------*/
+.d1-bk {
+	display: flex;
+	position: relative;
+	justify-content: center;
+}
+.fie-bk {
+	/*width: 800px;*/
+	width: 90%;
+	border: 2px solid rgba(205,205,205,0.5);
+	border-radius: 10px;
+	font-size:20px;
+	font-family: 標楷體;
+	box-shadow: 0 0 20px rgba(73, 48, 48, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+	padding: 20px;
+	margin: 30px auto;
+	background-color: rgba(205,205,205,0.5);
+	
+}
+.leg-bk {
+	float: none;
+	width: auto;
+	margin: 5px 10px;
+	font-size: 50px;
+}
+
+.dd1-bk div input{
+	height: auto;
+	width: 250px
+}
+
+.d1-bk {
+	/*display: flex;*/
+	/*position: relative;*/
+	justify-content: center;
+}
+
+.d1-bk section{
+	width:100%;
+	/*display: flex;
+	position: relative;
+	justify-content: center;*/
+	margin: auto;
+}
+
+.dd1-bk {
+	margin-bottom: 20px;
+	display: flex;
+	width: 100%;
+}
+
+.dd1-bk div {
+	width: 50%;
+}
+
+.spa-bk {
+	font-size: 10px;
+	color: gray;
+}
+
+.btnn-bk {
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.btnn-bk button {
+	margin: 20px 10px 10px 10px;
+}

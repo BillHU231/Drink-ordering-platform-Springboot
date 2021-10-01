@@ -1,0 +1,27 @@
+.enterpriseFirstPage{
+	position:relative;
+}
+.enterprisebackground1{
+	width:100%
+}
+.welcomeEnterpriseUser{
+	width:600px;
+	height:140px;
+	position:absolute;
+	left:0;
+	right:0;
+	top:20px;
+	bottom:0;
+	margin:auto;
+}
+.welcomeEnterpriseUser .textbox{
+	height:60px;
+	line-height:60px;
+	font-size:50px;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	letter-spacing:5px;
+	margin-bottom:10px;
+	color:#ff9b18;
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}

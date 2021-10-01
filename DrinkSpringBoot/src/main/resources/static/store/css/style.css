@@ -1,0 +1,28 @@
+/*共同樣式*/
+
+body {
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	
+}
+
+header {
+	background: cadetblue;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+img{
+	 margin: 10px;
+}
+
+td{
+	 border: 1px solid black;
+}
+
+.msg{
+	color:blue;
+}

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+/* font-family: 'Noto Sans TC', sans-serif; */
+
+.myFontTC{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.myFontColorWhite{
+    color: white;
+}
+.myTextCenter{
+    text-align: center;
+}
+.myLetterSpace2{
+    letter-spacing: 2px;
+}
+.myLetterSpace1{
+    letter-spacing: 1px;
+}
+.myLoginBtn{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 1.2em;
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 2px;
+    text-decoration:none;
+    padding: 0 10px;
+    transition: color 0.15s;
+}
+.myLoginBtn:hover{
+    color: rgba(255,255,255,1);
+}
+
+.mySignUpBtn{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 1.2em;
+    color: rgba(255,255,255,0.7);
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-decoration:none;
+    padding: 3px 10px;
+    margin-right: 20px;
+    transition: color 0.15s;
+    border: 2px solid rgba(255,255,255,0.7);
+    border-radius: 6px;
+}
+.mySignUpBtn:hover{
+    color: rgba(255,255,255,1);
+    border: 2px solid rgba(255,255,255,1);
+}
+.myNavBtnDisappear{
+	display:none;
+}
+

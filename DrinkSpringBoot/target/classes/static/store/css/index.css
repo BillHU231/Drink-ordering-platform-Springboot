@@ -1,0 +1,363 @@
+.container {
+  max-width: 960px;
+}
+
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+  background-color: rgba(0, 0, 0, .85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+  color: #8e8e8e;
+  transition: color .15s ease-in-out;
+}
+.site-header a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+.product-device {
+  position: absolute;
+  right: 10%;
+  bottom: -30%;
+  width: 300px;
+  height: 540px;
+  background-color: #333;
+  border-radius: 21px;
+  transform: rotate(30deg);
+}
+
+.product-device::before {
+  position: absolute;
+  top: 10%;
+  right: 10px;
+  bottom: 10%;
+  left: 10px;
+  content: "";
+  background-color: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+}
+
+.product-device-2 {
+  top: -25%;
+  right: auto;
+  bottom: 0;
+  left: 5%;
+  background-color: #e5e5e5;
+}
+
+
+/*
+ * Extra utilities
+ */
+
+.flex-equal > * {
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
+}
+
+/*form*/
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+  font-size: 3.5rem;
+  }
+}
+
+
+/*-----mycss-------*/
+
+.mycontainer{
+  /*冠維修改*/
+  margin: 10px auto;
+  background-color:rgba(255,255,255,0.8);
+  max-width: 98%;
+  padding:30px 50px 10px;
+  border-radius: 10px;
+}
+ 
+.mybtn{
+  margin-left: 20px;
+} 
+
+.title2{
+  color: blue;
+  margin-right: 20px;
+}
+
+.myimage{
+
+  margin: 10px 0px;
+  width: 300px;
+}
+
+.mytable1{
+  width: 98%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+
+.myimageTable{
+    
+  width: 350px;
+
+}
+
+.mytd{
+  vertical-align:middle;
+}
+
+.myth{
+  vertical-align:middle;
+}
+
+.title3{
+  color:blue;
+}
+
+.myStitle{
+  margin-top:20px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.myhr{
+  margin: 30px 0px;
+}
+
+.myintro{
+  max-width: 150px;
+}
+
+.myicon{
+  width: 40px;
+}
+
+.myFormImage{
+  max-width: 600px;
+  /* margin: 0px; */
+}
+
+.myformTitle{
+  margin-bottom: 30px;
+}
+
+.myFormbtn{
+  margin: 20px 0px;
+  text-align: center;
+}
+
+
+
+.mylogin{
+  width: 50%;
+}
+
+.myloginForm{
+width:400px;
+margin:0 auto;
+}
+
+.myloginButton{
+margin-left:40%;
+margin-bottom:50px
+}
+
+
+.msgWorng{
+	color:red;
+	text-align: center;
+}
+
+
+
+.msg{
+	color:blue;
+	text-align: center;
+	margin-bottom:30px;
+}
+
+.mgimage{
+	max-width: 80px;
+}
+
+.imbtn2{ /*用在storeManager*/
+	width:25px;
+	
+}
+
+
+.imbtn{
+	width:50px;
+	height:50px;
+	
+}
+
+
+.mybutton{
+	border-style: none;
+	background-color: transparent;
+}
+
+.gmtab{
+	width:200px;
+}
+
+.edbtn{
+	width:150px;
+	height:40px;
+	margin:20px 20px;
+}
+
+.myFirstTitle{
+	font-size:58px;
+	margin:80px;
+}
+
+.tagbtn{
+	margin-top:10px;
+	margin-right:10px;
+}
+
+.myinner{
+
+	background-color:red;
+}
+
+/*-------user----------*/
+
+
+.usercontainer{
+	margin:0 auto;
+	width:95%
+}
+
+.myusermenu{
+  	height:28em;
+  	width: 100%;
+	
+}
+
+.myleftmenu{
+	text-align:center;
+	width:35%;
+	height:20em;
+	float:left;
+}
+
+.mymap{
+	margin-top:20%;
+}
+
+
+.myrightmenu{
+	padding-top:7%;
+	height:20em;
+	width:100%;
+	text-align:center;
+}
+
+.myF{
+	width:100%;
+	padding:20px;
+	
+}
+
+.test2in{
+	margin:10px 15px 10px 15px;
+	display: inline-block;
+	width:30%;
+	height:250px;
+	text-align:center;
+}
+
+.usbtn{
+	margin:5px 10px;
+}
+
+.usSeabtn{
+	width:38px;
+	height:38px;
+	position:relative;
+	margin-top:0%;
+	margin-left:-9%;
+}
+
+.RowOutside{
+	margin-bottom:20px;
+}
+
+.rowimage{
+	/*border:1px gray solid;*/
+	width:250px;
+	height:200px;
+	margin:0 auto;
+	border-radius:30px;
+	cursor: pointer;
+
+}
+
+.RowTitle{
+	text-align:center;
+	margin:30px 0;
+	font-weight:bold;
+}
+.Allimage{
+	width:320px;
+	height:210px;
+	border:1px gray solid;
+}
+
+.PRowTitle{
+	margin:30px 0;
+	text-align:left;
+
+}
+
+.ptest2in{
+	float:left;
+	width:33%;
+	height:150px;
+	border:1px gray solid;
+}
+
+.uspimage{
+	height:100%;
+	width:150px;
+	float:right;
+}
+
+
+
+.pBlock{
+	width:99%;
+	height:150px;
+}
+
+.myStoreIMG{
+	cursor: pointer;
+}
+
+

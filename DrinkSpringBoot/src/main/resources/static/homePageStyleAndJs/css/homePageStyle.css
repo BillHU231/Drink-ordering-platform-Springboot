@@ -1,0 +1,504 @@
+/* 首頁自訂樣式 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
+/* --------------------------------- Header ---------------------------------*/
+
+body{
+}
+
+/* Header的Logo圖片大小 */
+.myHeaderLogoImg{
+    width: 55px;
+    vertical-align: middle;
+    position:relative;
+    top:-7px;
+    -webkit-filter:brightness(100);
+}
+/* Header的Logo字體大小 */
+.myHeaderLogoFont{
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+/* Header的項目字體大小 */
+.myHeaderItem{
+    font-size: 22px;
+    font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 2px;
+}
+/* Header的符號 */
+.myHeaderItem i{
+    margin-right: 8px;
+}
+
+/* --------------------------------- Content ---------------------------------*/
+ 
+.homePage_Content{
+	background-image:url("../assets/img/homePageBackground2.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+ 
+/* Banner 圖片滿版 */
+.myBannerImg{
+    width: 100%;
+}
+/* 企業專屬背景 */
+.enterpriseContent{
+	padding:10px 0;
+	background-image:url("../assets/img/enterprisebackground4.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+/* --------------------------------- Banner_1 ---------------------------------*/
+.Banner1_Area{	
+	box-shadow: 5px 5px 3px #aaa;
+}
+
+/*------Box1------*/
+
+.Banner1_Box1{
+	position:relative;
+	width:100%;
+	height:550px;
+	overflow: hidden;
+}
+.Banner1_Box1 img{
+	width:100%;
+}
+
+.Banner1_Box1 .Banner1_Box1_text{
+	position:absolute;
+	right:0;
+	left:0;
+	bottom:17%;
+	margin: auto;	
+	background-color: #8c49ab;
+	padding:12px;
+	box-shadow: 5px 5px 2px rgba(0,0,0,0.3);
+	/* transform:rotate(3deg); */
+}
+
+.Banner1_Box1 .Banner1_Box1_text h5,
+.Banner1_Box1 .Banner1_Box1_text p{
+	font-size:40px;
+	margin:0;
+}
+
+/*------Box2------*/
+
+.Banner1_Box2{
+	position:relative;
+	width:100%;
+	height:550px;
+	overflow: hidden;
+}
+.Banner1_Box2 img{
+	width:100%;
+}
+
+.Banner1_Box2 .Banner1_Box2_text{
+	height:140px;
+	width:600px;
+	position:absolute;
+	left:-150px;
+	top:60px;	
+	background-color: #8c49ab;
+	padding:30px;
+	box-shadow: 5px 5px 2px rgba(0,0,0,0.3);
+	transform:rotate(-40deg); 
+}
+.Banner1_Box2 .Banner1_Box2_text h5,
+.Banner1_Box2 .Banner1_Box2_text p{
+	font-size:40px;
+	line-height:40px;
+	margin:0;
+}
+
+/*------Box3------*/
+
+.Banner1_Box3{
+	position:relative;
+	width:100%;
+	height:550px;
+	overflow: hidden;
+}
+
+.Banner1_Box3 img{
+	width:100%;
+}
+.Banner1_Box3 .Banner1_Box3_text{
+	cursor: pointer;
+	bottom:25px; /* 預設CSS中已經有 position:absolute */
+}
+
+
+.Banner1_Box3 .Banner1_Box3_text h5 a:hover .popularTag,
+.Banner1_Box3 .Banner1_Box3_text h5 a:hover .moreTag{
+	color:rgba(255,255,255,1);
+}
+
+.Banner1_Box3 .Banner1_Box3_text h5 a .popularTag{
+	font-size:40px;
+	line-height:50px;
+	color:rgba(255,255,255,0.8);
+}
+
+.Banner1_Box3 .Banner1_Box3_text h5 a .moreTag{
+	font-size:25px;
+	line-height:50px;
+	margin:0;
+	color:rgba(255,255,255,0.8);
+}
+
+/* --------------------------------- Banner_2 ---------------------------------*/
+
+.Banner2_Area{
+	height:400px;	
+}
+.Banner2_Area .Banner2_list{
+	width:100%;
+	height:400px;
+	padding:0;
+	margin:0;
+	display:flex;
+	flex-direction: row;
+	flex-wrap:nowrap;
+	justify-content:space-around;
+	align-items:center;
+}
+.Banner2_Area .Banner2_list li{
+	list-style-type:none;
+	display:block;
+	width:300px;
+	height:210px;
+	transition: transform 0.2s;
+}
+.Banner2_Area .Banner2_list li a{
+	text-decoration: none;
+}
+
+.Banner2_Area .Banner2_list li a i,
+.Banner2_Area .Banner2_list li a span{
+	transition: color 0.2s;
+}
+
+.Banner2_Area .Banner2_list li:hover{
+	transform: scale(1.2);
+}
+.Banner2_Area .Banner2_list li a:hover i,
+.Banner2_Area .Banner2_list li a:hover span{
+	color:#ff9e1f;
+}
+.Banner2_Area .Banner2_list li a i{
+	display:block;
+	font-size:120px;
+	line-height:120px;
+	text-align:center;
+	width:100%;
+	height:140px;
+	color:#ff9e1f;
+}
+.Banner2_Area .Banner2_list li a span{
+	display: block;
+	text-align:center;
+	text-decoration: none;
+	padding:20px;
+	font-size:30px;
+	line-height:30px;
+	color:#444;
+	font-family: 'Noto Sans TC', sans-serif;
+	letter-spacing:5px;
+	font-weight: 600;
+}
+
+/* --------------------------------- Banner_3 ---------------------------------*/
+.Banner3_Area{
+	height:530px;	
+}
+.guessULikeTopic{
+	height:130px;
+	padding:0 0 60px 0;
+	font-size:60px;
+	line-height: 60px;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 600;
+	letter-spacing: 5px;
+	color:#6c757d;
+	background: rgba(0,0,0,0);
+	letter-spacing: 20px;
+	text-shadow: 3px 3px 5px #ccc;
+}
+.guessULikeBox{
+	background: #7464a1;
+}
+/* 內容變換再用的 */
+.guessULikeBox>div{
+	display: none;
+}
+.guessULikeBox div.guessULike{
+	display: block;
+}
+
+
+.guessULikeBox{
+	position:relative;
+	height:400px;
+	padding: 20px 0 20px 0;
+	text-align:center;
+	box-shadow: 3px 3px 5px #aaa;
+}
+.guessULikeBox .guessULikeImg{
+	display:inline-block;
+	width:360px;
+	height:360px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.guessULikeBox .guessULikeImg Img{
+	height:100%;
+}
+.guessULikeBox .guessULikeText{
+	display:inline-block;
+	height:360px;
+	padding:0 0 0 60px;
+	vertical-align: top;
+}
+.guessULikeBox .guessULikeText h2{
+	font-size: 50px;
+	line-height:50px;
+	height:70px;
+	padding:10px 0 ;
+	color:#fff;
+}
+.guessULikeBox .guessULikeText>div{
+	height:80px;
+	padding:20px 0;
+	font-size: 40px;
+	line-height:40px;
+	text-align: left;
+	color:#fff;
+	letter-spacing: 7px;
+}
+.guessULikeBox .nextGuessULikeBtn{
+	position:absolute;
+	bottom:10px;
+	right:100px;
+	border: none;
+	background:rgba(0,0,0,0);
+	height:30px;
+	width:100px;
+	text-align:center;
+	line-height: 30px;
+	font-size: 30px;
+	color:#fff;
+	transition:color 0.2s;
+}
+.guessULikeBox .nextGuessULikeBtn:hover{
+	color:#000;
+}
+
+/* --------------------------------- Banner_4 ---------------------------------*/
+.Banner4_Area{
+	height:700px;
+}
+.Banner4_Area .activityTopic{
+	height:200px;
+	padding:70px 0 70px 0;
+	font-size:60px;
+	line-height: 60px;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 600;
+	letter-spacing: 5px;
+	color:#ff9e1f;
+	background: rgba(0,0,0,0);
+	letter-spacing: 20px;
+	text-shadow: 3px 3px 5px #ccc;
+}
+
+.activityBox{
+	height:500px;
+	box-shadow: 3px 3px 5px #aaa;
+}
+.activityBox .activityBox_item{
+	height:500px;
+	overflow: hidden;	
+	position:relative;
+}
+
+.activityBox_item .activityItemText{
+	position: absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin: auto;
+}
+
+.activityBox_item .activityItemText .itemTopic{
+	height:50px;
+	position: absolute;
+	top:50px;
+	font-size:30px;
+	font-weight:600;
+	letter-spacing:3px;
+	line-height: 30px;
+	padding:10px;
+	margin:0 0 0 50px;
+	background: linear-gradient(90deg,rgba(200,200,200,0.7) 70%, rgba(200,200,200,0));
+	border-radius: 10px;
+}
+
+.activityBox_item .activityItemText .itemContent{
+	height:300px;
+	width:50%;
+	position: absolute;
+	top:120px;
+	font-size:25px;
+	line-height: 40px;
+	letter-spacing:3px;
+	font-weight:600;
+	font-family: 'Noto Sans TC', sans-serif;
+	padding:10px;
+	margin:0 0 0 50px;
+	background: linear-gradient(90deg,rgba(220,220,220,0.7) 70%, rgba(200,200,200,0));
+	border-radius: 10px;
+}
+
+.activityBox_item .activityItemText .activityItemDiscountDetail{
+	height:300px;
+	width:300px;
+	position: absolute;
+	top:110px;
+	right:230px;
+	font-size:20px;
+	line-height: 20px;
+	padding:10px;
+	margin:0 0 0 50px;
+	background:rgba(225,158,31,0.9);
+	border:5px rgba(225,158,31,1) solid;
+	border-radius: 50%;
+	cursor: pointer;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Btn{
+	text-align: center;
+	transform:rotate(17deg);
+}
+.activityItemDiscountDetail:hover #activityItemDiscountDetail_Text{
+	opacity:1;
+	visibility:visible;
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Btn i{
+	font-size: 160px;
+	line-height: 190px;
+	color:#fff;
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Btn p{
+	font-size: 45px;
+	line-height: 45px;
+	color:#fff;
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text{
+	visibility:hidden;
+	opacity:0;
+	background: #8c49ab;
+	width:400px;
+	padding:20px 20px;
+	position:fixed;
+	top:135px;
+	right:500px;
+	text-align: center;
+	transform:rotate(3deg);
+	transition:opacity 1s;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text h2{
+	font-size: 40px;
+	line-height: 40px;
+	padding:20px 0 ;
+	font-weight: 600px;
+	color: #fff;
+	letter-spacing: 2px;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text .discountItem{
+	font-size: 25px;
+	line-height: 30px;
+	padding: 5px 0 ;
+	background: #ff9e1f;
+	color: #fff;
+	margin-top: 10px;
+	letter-spacing: 2px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text .discountItem:hover{
+	background: #ffbf3f;
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text .discountItem .origPrice{
+	text-decoration: line-through;
+}
+.activityItemDiscountDetail .activityItemDiscountDetail_Text .discountItem .discPrice{
+	color: red;
+	font-weight: 600;
+}
+/* --------------------------------- Banner_5 ---------------------------------*/
+.Banner5_Area{
+	height: 500px;
+}
+.aboutFindTeaBox{
+	padding: 50px 0 ;
+}
+.aboutFindTeaBox .findTeaTopic{
+	font-size: 50px;
+	line-height: 50px;
+	padding: 20px 0 20px 150px;
+	text-shadow: 3px 3px 3px #ccc;
+}
+.aboutFindTeaBox .findTeaContent{
+	padding: 0 0 0 130px;
+	font-size:25px;
+	line-height: 65px;
+	text-shadow: 3px 3px 3px #ccc;
+}
+.aboutFindTeaBox .findTeaContent i{
+	font-size:35px;
+	color:#cfa034;
+}
+
+
+/* 討論區 */
+.otherTalk_Area .otherTalkTopic{
+	height:200px;
+	padding:70px 0 70px 0;
+	font-size:60px;
+	line-height: 60px;
+	text-align: center;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 600;
+	letter-spacing: 5px;
+	color:#ff9e1f;
+	background: rgba(0,0,0,0);
+	letter-spacing: 20px;
+	text-shadow: 3px 3px 5px #ccc;	
+}
+.otherTalk_Area .otherTalkBox{
+	background-color: #ff9e1f;  
+	box-shadow: 3px 3px 5px #aaa;
+}
+.otherTalk_Area .otherTalkItem1{
+	height:200px;
+    padding:80px 0 80px 200px;
+}
+.otherTalk_Area .otherTalkItem1 a{
+    font-size: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    color:#fff;
+
+}
+

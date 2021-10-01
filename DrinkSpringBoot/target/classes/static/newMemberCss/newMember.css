@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+.fie {
+	width: 800px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-top: 30px;
+	/*font-family: 標楷體;*/
+	box-shadow: 0 0 20px rgba(73, 48, 48, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+	padding: 20px;
+}
+
+.leg {
+	float: none;
+	width: auto;
+	margin: 5px 10px;
+	font-size: 30px;
+}
+
+.d1 {
+	display: flex;
+	position: relative;
+	justify-content: center;
+}
+
+.dd1 {
+	margin-bottom: 20px;
+	display: flex;
+	width: 100%;
+}
+
+.dd1 div {
+	width: 400px;
+}
+
+.dd2 {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.spa {
+	font-size: 10px;
+	color: gray;
+}
+
+.btnn {
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.btnn button {
+	margin: 20px 10px 10px 10px;
+}
