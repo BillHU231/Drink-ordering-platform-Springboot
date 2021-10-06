@@ -6,7 +6,8 @@
 http://localhost:8081/Drink/HomePage
 
 # 使用技術
-## 主要語言
+ 主要語言
+----------------------------------
 - java
 ## 框架
 - SpringBoot
