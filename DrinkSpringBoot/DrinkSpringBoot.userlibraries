@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-web:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.5.3/spring-boot-starter-web-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter/2.5.3/spring-boot-starter-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.5.3/spring-boot-starter-logging-2.5.3.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.2.4">
+    <archive path="C:/Users/asbil/.m2/repository/ch/qos/logback/logback-classic/1.2.4/logback-classic-1.2.4.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.2.4">
+    <archive path="C:/Users/asbil/.m2/repository/ch/qos/logback/logback-core/1.2.4/logback-core-1.2.4.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.14.1">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.14.1/log4j-to-slf4j-2.14.1.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.14.1">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jul-to-slf4j:1.7.32">
+    <archive path="C:/Users/asbil/.m2/repository/org/slf4j/jul-to-slf4j/1.7.32/jul-to-slf4j-1.7.32.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.28">
+    <archive path="C:/Users/asbil/.m2/repository/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-json:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.5.3/spring-boot-starter-json-2.5.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.4/jackson-databind-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.4/jackson-annotations-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.4/jackson-core-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.12.4/jackson-datatype-jdk8-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.4/jackson-datatype-jsr310-2.12.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.12.4">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.12.4/jackson-module-parameter-names-2.12.4.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-web/5.3.9/spring-web-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-beans/5.3.9/spring-beans-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-webmvc/5.3.9/spring-webmvc-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-aop/5.3.9/spring-aop-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-context/5.3.9/spring-context-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-expression/5.3.9/spring-expression-5.3.9.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:javax.mail:1.6.2">
+    <archive path="C:/Users/asbil/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/Users/asbil/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-devtools:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-devtools/2.5.3/spring-boot-devtools-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot/2.5.3/spring-boot-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.3/spring-boot-autoconfigure-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.5.3/spring-boot-starter-tomcat-2.5.3.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5">
+    <archive path="C:/Users/asbil/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.50">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.50/tomcat-embed-core-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-el:9.0.50">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/9.0.50/tomcat-embed-el-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.50">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.50/tomcat-embed-websocket-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-test:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-test/2.5.3/spring-boot-starter-test-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-test/2.5.3/spring-boot-test-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.5.3/spring-boot-test-autoconfigure-2.5.3.jar" />
+  </library>
+  <library name="Maven: com.jayway.jsonpath:json-path:2.5.0">
+    <archive path="C:/Users/asbil/.m2/repository/com/jayway/jsonpath/json-path/2.5.0/json-path-2.5.0.jar" />
+  </library>
+  <library name="Maven: net.minidev:json-smart:2.4.7">
+    <archive path="C:/Users/asbil/.m2/repository/net/minidev/json-smart/2.4.7/json-smart-2.4.7.jar" />
+  </library>
+  <library name="Maven: net.minidev:accessors-smart:2.4.7">
+    <archive path="C:/Users/asbil/.m2/repository/net/minidev/accessors-smart/2.4.7/accessors-smart-2.4.7.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:9.1">
+    <archive path="C:/Users/asbil/.m2/repository/org/ow2/asm/asm/9.1/asm-9.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.32">
+    <archive path="C:/Users/asbil/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3">
+    <archive path="C:/Users/asbil/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:1.2.2">
+    <archive path="C:/Users/asbil/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.assertj:assertj-core:3.19.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/assertj/assertj-core/3.19.0/assertj-core-3.19.0.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest:2.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.2/junit-jupiter-5.7.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.2/junit-jupiter-params-5.7.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-core:3.9.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/mockito/mockito-core/3.9.0/mockito-core-3.9.0.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.10.22">
+    <archive path="C:/Users/asbil/.m2/repository/net/bytebuddy/byte-buddy/1.10.22/byte-buddy-1.10.22.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy-agent:1.10.22">
+    <archive path="C:/Users/asbil/.m2/repository/net/bytebuddy/byte-buddy-agent/1.10.22/byte-buddy-agent-1.10.22.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:3.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/objenesis/objenesis/3.2/objenesis-3.2.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-junit-jupiter:3.9.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/mockito/mockito-junit-jupiter/3.9.0/mockito-junit-jupiter-3.9.0.jar" />
+  </library>
+  <library name="Maven: org.skyscreamer:jsonassert:1.5.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1">
+    <archive path="C:/Users/asbil/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-core/5.3.9/spring-core-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jcl:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-jcl/5.3.9/spring-jcl-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-test/5.3.9/spring-test-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.xmlunit:xmlunit-core:2.8.2">
+    <archive path="C:/Users/asbil/.m2/repository/org/xmlunit/xmlunit-core/2.8.2/xmlunit-core-2.8.2.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-configuration-processor/2.5.3/spring-boot-configuration-processor-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:9.0.50">
+    <archive path="C:/Users/asbil/.m2/repository/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.50/tomcat-embed-jasper-9.0.50.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jdt:ecj:3.18.0">
+    <archive path="C:/Users/asbil/.m2/repository/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="C:/Users/asbil/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.11.0">
+    <archive path="C:/Users/asbil/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.5.3/spring-boot-starter-data-jpa-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.5.3/spring-boot-starter-aop-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.9.7">
+    <archive path="C:/Users/asbil/.m2/repository/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.5.3/spring-boot-starter-jdbc-2.5.3.jar" />
+  </library>
+  <library name="Maven: com.zaxxer:HikariCP:4.0.3">
+    <archive path="C:/Users/asbil/.m2/repository/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-jdbc/5.3.9/spring-jdbc-5.3.9.jar" />
+  </library>
+  <library name="Maven: jakarta.transaction:jakarta.transaction-api:1.3.3">
+    <archive path="C:/Users/asbil/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar" />
+  </library>
+  <library name="Maven: jakarta.persistence:jakarta.persistence-api:2.2.3">
+    <archive path="C:/Users/asbil/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-core:5.4.32.Final">
+    <archive path="C:/Users/asbil/.m2/repository/org/hibernate/hibernate-core/5.4.32.Final/hibernate-core-5.4.32.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.4.2.Final">
+    <archive path="C:/Users/asbil/.m2/repository/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.27.0-GA">
+    <archive path="C:/Users/asbil/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar" />
+  </library>
+  <library name="Maven: antlr:antlr:2.7.7">
+    <archive path="C:/Users/asbil/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+  </library>
+  <library name="Maven: org.jboss:jandex:2.2.3.Final">
+    <archive path="C:/Users/asbil/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.5.1">
+    <archive path="C:/Users/asbil/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" />
+  </library>
+  <library name="Maven: org.dom4j:dom4j:2.1.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:5.1.2.Final">
+    <archive path="C:/Users/asbil/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:2.3.4">
+    <archive path="C:/Users/asbil/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.4/jaxb-runtime-2.3.4.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:2.3.4">
+    <archive path="C:/Users/asbil/.m2/repository/org/glassfish/jaxb/txw2/2.3.4/txw2-2.3.4.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:3.0.12">
+    <archive path="C:/Users/asbil/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.12/istack-commons-runtime-3.0.12.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:1.2.2">
+    <archive path="C:/Users/asbil/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-jpa:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/data/spring-data-jpa/2.5.3/spring-data-jpa-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-commons:2.5.3">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/data/spring-data-commons/2.5.3/spring-data-commons-2.5.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-orm/5.3.9/spring-orm-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-tx/5.3.9/spring-tx-5.3.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aspects:5.3.9">
+    <archive path="C:/Users/asbil/.m2/repository/org/springframework/spring-aspects/5.3.9/spring-aspects-5.3.9.jar" />
+  </library>
+  <library name="Maven: com.microsoft.sqlserver:mssql-jdbc:9.2.1.jre8">
+    <archive path="C:/Users/asbil/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/9.2.1.jre8/mssql-jdbc-9.2.1.jre8.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.26">
+    <archive path="C:/Users/asbil/.m2/repository/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/Users/asbil/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/el-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/jasper.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/jsp-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/ecj-4.20.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/jasper-el.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/jaspic-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-jni.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina-ha.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/servlet-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-dbcp.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-jdbc.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-util.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina-ant.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina-ssi.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-coyote.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/websocket-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-cs.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-de.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-es.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-fr.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-ja.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-ko.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-ru.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/annotations-api.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina-tribes.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-util-scan.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-websocket.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-pt-BR.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/tomcat-i18n-zh-CN.jar" />
+    <archive path="C:/server/apache-tomcat-9.0.54/lib/catalina-storeconfig.jar" />
+  </library>
+</eclipse-userlibraries>
+

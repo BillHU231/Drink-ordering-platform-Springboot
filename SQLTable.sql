@@ -98,7 +98,6 @@ create table Orderss(
    shopcarID  int not null,
    customerID varchar(50) not null,
    customerName varchar(10) not null,
-   customerPhone varchar(10) not null,
    storeID int not null,
    shopDate date default getdate() not null,
    storeneworderss varchar(1) not null,
@@ -138,8 +137,8 @@ proname	varchar(50) not null,
 --µû½×
 drinkDiscuss varchar (50),
 --¬P¬P
-drinkstar varchar(20),
-)
+drinkstar varchar(20)
+);
 
 select * from discuss123;
 

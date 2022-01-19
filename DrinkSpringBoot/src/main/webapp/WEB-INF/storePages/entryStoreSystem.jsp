@@ -49,7 +49,7 @@ response.setDateHeader("Expires", -1); // Prevents caching at the proxy server
 		</div>
 	</div>
 	
-<!--  	
+	
 	<h1>店家頁面</h1>
 	<form action="search.controller" method="post">
 	<button type="submit" >test</button>
@@ -69,7 +69,7 @@ response.setDateHeader("Expires", -1); // Prevents caching at the proxy server
 	<form action="readProductPic.controller" method="post">
 			<button type="submit" >into</button>
 	</form>
--->
+
 	
 
 	<!--內文開始-->

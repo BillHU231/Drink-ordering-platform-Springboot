@@ -13,8 +13,8 @@ public interface OrderssRepository extends JpaRepository<Orderss, Integer> {
 @Query(value = "SELECT * FROM Orderss WHERE shopDate>=:begin and shopDate<=:end",nativeQuery=true)
 public List<Orderss> findByShopDate(@Param(value="begin")String begin,@Param(value="end")String end);
 
-@Query(value ="select OrderssID from Orderss where customerID=?1 and total=?2 and shopcarID=?3 ",nativeQuery = true )
-public String findOrderssID(String customerID, double total,int shopcarID);
+@Query(value="SELECT LASTVAL()" ,nativeQuery = true)
+public int findOrderssID();
 
 @Query(value="select * from Orderss where storeID=?1 and storeneworderss=?2",nativeQuery = true)
 public List<Orderss> findAllByStoreIDAndStoreneworderss(String storeID,String storeneworderss);

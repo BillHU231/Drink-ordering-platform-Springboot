@@ -272,7 +272,8 @@ public class ShopController {
 		Orderss order = new Orderss(shopcarID, customerID, name, storeID, date, storeneworderss, total);
 		oService.InsertOrderss(order);
 
-		orderssID = oService.getOrderssID(customerID, total, shopcarID);
+		orderssID = oService.getOrderssID();
+		System.out.println("orderssID:"+orderssID);
 		String prouctme = "";
 		for (ShopCarBean item : car) {
 			prouctme += item.getProuctName() + " x" + item.getQty() + "#";
@@ -287,7 +288,7 @@ public class ShopController {
 		// 特店編號
 		acot.setMerchantID("2000132");
 		// 訂單編號
-		String mctno = "DrinkOrderss" + orderssID;
+		String mctno =((int) (Math.random()*101))+ "DrinkOrderss" + orderssID;
 		acot.setMerchantTradeNo(mctno);
 		// 下單時間
 		acot.setMerchantTradeDate(timeStamp);

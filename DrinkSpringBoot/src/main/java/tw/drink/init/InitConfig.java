@@ -19,6 +19,7 @@ import tw.drink.store.model.StoreService;
 
 @Component
 public class InitConfig implements InitializingBean{
+//	public class InitConfig {
 	
 	@Autowired // 使用店家產品 Service
 	StoreProductService storeProductService;

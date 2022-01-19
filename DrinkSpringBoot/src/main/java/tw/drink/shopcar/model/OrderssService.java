@@ -23,8 +23,8 @@ public class OrderssService {
 	    return oRepository.findByShopDate(begin, end);
 	}
 	
-	public int getOrderssID(String customerID, double total,int shopcarID) {
-		int orderssID=Integer.parseInt(oRepository.findOrderssID(customerID, total, shopcarID));
+	public int getOrderssID() {
+		int orderssID=oRepository.findOrderssID();
 		return orderssID;
 	}
 	
